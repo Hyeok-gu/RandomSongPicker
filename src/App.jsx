@@ -7,7 +7,7 @@ const Text = styled.p`
 function App() {
   return (
     <>
-      <Text>hello</Text>
+      <Text>hello!</Text>
     </>
   );
 }
